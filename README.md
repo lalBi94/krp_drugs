@@ -6,7 +6,7 @@
 
 ## Dependencies
 This script relies on the following dependencies:
-- [ZODWorks](https://github.com/lalBi94/ZODWorks): An external resource that provides essential functionalities for the operation of the bank script.
-- [ESX LEGACY](https://documentation.esx-framework.org/): A development framework for FiveM that provides a solid infrastructure for script resources, including banking features.
+- [ZODWorks](https://github.com/lalBi94/ZODWorks): An external resource that provides essential functionalities for the operation of the drugs script.
+- [ESX LEGACY](https://documentation.esx-framework.org/): A development framework for FiveM that provides a solid infrastructure for script resources, including drugs features.
 
 *PS: If you have any optimization ideas for my script, please feel free to share. Your suggestions are welcome!*
